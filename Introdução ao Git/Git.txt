@@ -1,0 +1,3 @@
+Link para download: https://git-scm.com/downloads
+
+O Bash é um terminal onde colocamos nossos repositórios e podemos clonar também.
